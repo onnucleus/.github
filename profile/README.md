@@ -1,7 +1,7 @@
 # Nucleus
 
-![Nucleus](https://raw.githubusercontent.com/onnucleus/.github/main/profile/assets/light.svg#gh-light-mode-only)
-![Nucleus](https://raw.githubusercontent.com/onnucleus/.github/main/profile/assets/dark.svg#gh-dark-mode-only)
+![Nucleus](https://raw.githubusercontent.com/onnucleus/.github/main/profile/assets/light.svg?v=0.1.1#gh-light-mode-only)
+![Nucleus](https://raw.githubusercontent.com/onnucleus/.github/main/profile/assets/dark.svg?v=0.1.1#gh-dark-mode-only)
 
 A core banking platform for financial institutions.
 

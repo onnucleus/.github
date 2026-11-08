@@ -3,31 +3,31 @@
   "contractScope": "Source discovery and selected LOCAL_SYNTHETIC profile; no live or regulatory qualification implied",
   "files": [
     {
-      "bytes": 1577,
+      "bytes": 1593,
       "path": "profile/README.md",
-      "sha256": "32632820bbff02f2e5f21dc4f25105ad30c92659c9c71378e716cdaee4ded8f8",
+      "sha256": "f20799ef403d36444815bd3b5f0af2e5409298292059ba84ef2dc747aa6d1049",
       "source": "developer-hub/templates/organisation/profile/README.md",
-      "sourceSha256": "32632820bbff02f2e5f21dc4f25105ad30c92659c9c71378e716cdaee4ded8f8",
+      "sourceSha256": "f20799ef403d36444815bd3b5f0af2e5409298292059ba84ef2dc747aa6d1049",
       "transformation": null
     },
     {
-      "bytes": 3976,
+      "bytes": 4464,
       "path": "profile/assets/dark.svg",
-      "sha256": "abe24206fad850bb8c61e1d455d1f5d5edae3f6c9d2c66a2d4dc8f884f588957",
+      "sha256": "eae52474a2c661c82cdfb954c0df58b0baf754cc220b593f4d02014d4a7b714a",
       "source": "docs/logo/dark.svg",
-      "sourceSha256": "abe24206fad850bb8c61e1d455d1f5d5edae3f6c9d2c66a2d4dc8f884f588957",
+      "sourceSha256": "eae52474a2c661c82cdfb954c0df58b0baf754cc220b593f4d02014d4a7b714a",
       "transformation": null
     },
     {
-      "bytes": 3976,
+      "bytes": 4464,
       "path": "profile/assets/light.svg",
-      "sha256": "ddf957efee4a37d76c1824de2ef3591205aa1a96fc2907ce0c704c14b5d92a51",
+      "sha256": "cc096b1708d156e63e46db6f6ec9cbfd770ab6cb592e545cfc4b57d0df603087",
       "source": "docs/logo/light.svg",
-      "sourceSha256": "ddf957efee4a37d76c1824de2ef3591205aa1a96fc2907ce0c704c14b5d92a51",
+      "sourceSha256": "cc096b1708d156e63e46db6f6ec9cbfd770ab6cb592e545cfc4b57d0df603087",
       "transformation": null
     }
   ],
   "schemaVersion": 1,
   "status": "PREPARED_NOT_PUBLISHED",
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
