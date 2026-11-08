@@ -1,0 +1,33 @@
+{
+  "candidateOrganisation": "onnucleus",
+  "contractScope": "Source discovery and selected LOCAL_SYNTHETIC profile; no live or regulatory qualification implied",
+  "files": [
+    {
+      "bytes": 1577,
+      "path": "profile/README.md",
+      "sha256": "32632820bbff02f2e5f21dc4f25105ad30c92659c9c71378e716cdaee4ded8f8",
+      "source": "developer-hub/templates/organisation/profile/README.md",
+      "sourceSha256": "32632820bbff02f2e5f21dc4f25105ad30c92659c9c71378e716cdaee4ded8f8",
+      "transformation": null
+    },
+    {
+      "bytes": 3976,
+      "path": "profile/assets/dark.svg",
+      "sha256": "abe24206fad850bb8c61e1d455d1f5d5edae3f6c9d2c66a2d4dc8f884f588957",
+      "source": "docs/logo/dark.svg",
+      "sourceSha256": "abe24206fad850bb8c61e1d455d1f5d5edae3f6c9d2c66a2d4dc8f884f588957",
+      "transformation": null
+    },
+    {
+      "bytes": 3976,
+      "path": "profile/assets/light.svg",
+      "sha256": "ddf957efee4a37d76c1824de2ef3591205aa1a96fc2907ce0c704c14b5d92a51",
+      "source": "docs/logo/light.svg",
+      "sourceSha256": "ddf957efee4a37d76c1824de2ef3591205aa1a96fc2907ce0c704c14b5d92a51",
+      "transformation": null
+    }
+  ],
+  "schemaVersion": 1,
+  "status": "PREPARED_NOT_PUBLISHED",
+  "version": "0.1.0"
+}
