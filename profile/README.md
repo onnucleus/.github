@@ -7,11 +7,8 @@ A core banking platform for financial institutions.
 
 Nucleus helps institutions manage customers, products, accounts, credit, payments, finance and the authorised work needed to operate them. Institutions choose their deployment, interfaces and external connections within their qualified configuration.
 
-Our developer workspace brings together API guides, contract snapshots, SDK integration guidance and examples for institution-built interfaces and connected services.
+This organisation is the public home for released Nucleus SDKs and integration examples. Those releases will appear here as they become available.
 
-- [Nucleus Developer](https://github.com/onnucleus/nucleus-developer): start here.
-- [Guides and API reference](https://github.com/onnucleus/nucleus-developer/tree/main/docs): core, Transfer, partner APIs and authorised assisted or agent integrations.
-- [SDK integration guidance](https://github.com/onnucleus/nucleus-developer/tree/main/sdks): reviewed client generation and module availability.
-- [HTTP examples](https://github.com/onnucleus/nucleus-developer/tree/main/examples): scoped reads with your own authorised environment.
+API documentation is delivered through the separately hosted Nucleus documentation site. Its website source, API reference sources and build configuration are private; they are not distributed in public GitHub repositories. No SDK registry release is announced by this profile.
 
 Availability depends on the product, environment, institution configuration and qualification. Public examples use synthetic data. For operational access and private support, use your institution's Nucleus Console or agreed service channel. General engineering contact: [engineering@onnucleus.com](mailto:engineering@onnucleus.com).
